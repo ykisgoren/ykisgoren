@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ykisgoren
 - 👀 I’m interested in Programming languages, web design, mobile app design and music
-- 🌱 I’m currently learning Html-css and All the c programming languag family
+- 🌱 I’m currently learning Html/CSS and All the c programming languag family
 - 💞️ I’m looking to collaborate on anything that will make me have a progress
 - 📫 You can reach me by mailing ykisgoren@gmail.com or via DM -> https://instagram.com/ykisgoren_/
 
